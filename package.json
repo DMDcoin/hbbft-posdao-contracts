@@ -33,7 +33,7 @@
   "homepage": "https://github.com/poanetwork/posdao-contracts#readme",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.2.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "solidity-docgen": "^0.4.1",
     "solidity-flattener": "github:poanetwork/solidity-flattener#master",
     "truffle-privatekey-provider": "^1.5.0"
